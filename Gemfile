@@ -71,6 +71,7 @@ gem 'sass', '= 3.2.5'
 gem 'sass-rails'
 gem 'soundcloud'
 gem 'spatial_adapter', :git => 'git://github.com/kueda/spatial_adapter.git' # until fragility updates the gemspec
+gem 'therubyracer', platforms: :ruby
 gem 'thinking-sphinx', '2.0.10'
 gem 'translate-rails3', :require => 'translate', :git => 'git://github.com/JayTeeSF/translate.git'
 gem 'trollop'
